@@ -11,3 +11,10 @@
 *When the sorce code is viewed in develpoer tools in the browser, the code will be rendered using the semantic HTML structure with accessibility standards.
 
 *The CSS code in the styles.css folder has been consolidated and organized to follow the semantic structure, so you can see what redundancy code was taken out.
+
+*Here you can find a link my screenshots of when I pushed my commits to GitHub.com:
+
+!["screenshot1"](./assets/images/screenshot1.png)
+!["screenshot2"](./assets/images/screenshot2.png)
+
+
