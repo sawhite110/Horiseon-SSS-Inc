@@ -8,4 +8,6 @@
 
 *I will be commenting into both index.html and styles.css files to keep a tab on the updates that I make during the process and to also allow anyone who comes in behind me, to be able to follow my process and make their own changes.
 
+*When the sorce code is viewed in develpoer tools in the browser, the code will be rendered using the semantic HTML structure with accessibility standards.
 
+*The CSS code in the styles.css folder has been consolidated and organized to follow the semantic structure, so you can see what redundancy code was taken out.
