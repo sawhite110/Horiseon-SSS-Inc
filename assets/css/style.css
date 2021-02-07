@@ -101,10 +101,10 @@ section h2{
 }
 
 /* Updating the benefits class with the aside elemnt. */
-/* Updating the padding to 70px to be in line with the desktop version of the demo.png. */
+/* Updating the padding to 45px to be in line with the desktop version of the demo.png. */
 aside {
     margin-right: 20px;
-    padding: 70px;
+    padding: 45px;
     clear: both;
     float: right;
     width: 20%;
