@@ -100,9 +100,11 @@ section h2{
     font-size: 36px;
 }
 
-.benefits {
+/* Updating the benefits class with the aside elemnt. */
+/* Updating the padding to 70px to be in line with the desktop version of the demo.png. */
+aside {
     margin-right: 20px;
-    padding: 20px;
+    padding: 70px;
     clear: both;
     float: right;
     width: 20%;
@@ -111,30 +113,31 @@ section h2{
     background-color: #2589bd;
 }
 
-/* Remiving the benefit class with the aside element for semantic code symmetry. */
+/* Remiving the benefit class with the div element for semantic code symmetry. */
 /* Removing redundancy in the benefit class into one group for each element and child element; semantic code.  */
-aside {
+div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* Remiving the benefit class with the aside element for semantic code symmetry. */
+/* Remiving the benefit class with the div element for semantic code symmetry. */
 /* Removing redundancy in the benefit class into one group for each element and child element; semantic code.  */
-aside h3 {
+div h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Remiving the benefit class with the aside element for semantic code symmetry. */
+/* Remiving the benefit class with the div element for semantic code symmetry. */
 /* Removing redundancy in the benefit class into one group for each element and child element; semantic code.  */
-aside img {
+div img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* Hiding the footer class information to match the homework-demo image. */
-.footer {
+/* Replacing the footer div class with the footer element for semantic code. */
+/* Hiding the footer element information to match the homework-demo image. */
+footer {
     visibility: hidden;
     padding: 30px;
     clear: both;
@@ -142,8 +145,9 @@ aside img {
     text-align: center;
 }
 
+/* Replacing the footer div class with the footer element for semantic code. */
 /* Hiding the footer header class information to match the homework-demo image. */
-.footer h2 {
+footer h2 {
     visibility: hidden;
     font-size: 20px;
 }
